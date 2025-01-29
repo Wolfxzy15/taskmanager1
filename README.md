@@ -4,4 +4,4 @@ These are my codes to the challenge given to me by ttgc. The codes are in the ma
 NOTE:
 To run the code open the folder in VScode
 Create a new terminal and type "php artisan serve"
-make anew terminala and type "npm run dev"
+make a new terminal and type "npm run dev"
